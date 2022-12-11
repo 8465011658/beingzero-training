@@ -28,7 +28,7 @@
 "homepage": "https://github.com/8465011658/beingzero-training#readme",
   
 "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
 
